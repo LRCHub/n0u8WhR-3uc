@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "あふれる",
+  "base_artist": "the pullovers",
+  "createdAt": "2026-02-25T08:42:18.655269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あふれる",
+      "artist": "Myuk feat. Shin Sakiura",
+      "has_synced": true,
+      "path": "select/01_あふれる_Myuk_feat._Shin_Sakiura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あふれる",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/02_あふれる_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Afureru (あふれる)",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/03_Afureru_(あふれる)_tricot.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あふれる",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/04_あふれる_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あふれる",
+      "artist": "存流",
+      "has_synced": true,
+      "path": "select/05_あふれる_存流.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Myuk - あふれる (Official Audio) / 関西テレビ「グータンヌーボ2」エンディングテーマ",
+      "artist": "Shin Sakiura",
+      "has_synced": true,
+      "path": "select/06_Myuk_-_あふれる_(Official_Audio)___関西テレビ「グータンヌーボ2」エンディングテーマ_Shin_Sakiura.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あふれる",
+      "artist": "My Little Lover",
+      "has_synced": true,
+      "path": "select/07_あふれる_My_Little_Lover.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あふれる (acoakko ver.)",
+      "artist": "My Little Lover",
+      "has_synced": true,
+      "path": "select/08_あふれる_(acoakko_ver.)_My_Little_Lover.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あふれる",
+      "artist": "the pullovers",
+      "has_synced": false,
+      "path": "select/pl_01_あふれる_the_pullovers.txt"
+    }
+  ]
+}
